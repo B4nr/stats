@@ -1,0 +1,5 @@
+3.2932708263397217 seconds while calculating 100000 factorial
+0.0 seconds while calculating 100 factorial
+0.0 seconds while calculating 1000 factorial
+0.0010156631469726562 seconds while calculating 1000 factorial
+0.026001453399658203 seconds while calculating 10000 factorial

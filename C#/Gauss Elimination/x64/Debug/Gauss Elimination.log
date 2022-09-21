@@ -1,0 +1,4 @@
+﻿  Gauss Elimination.cpp
+D:\VS\C#\Gauss Elimination\Gauss Elimination.cpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VS\C#\Gauss Elimination\Gauss Elimination.cpp(77,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Gauss Elimination.vcxproj -> D:\VS\C#\Gauss Elimination\x64\Debug\Gauss Elimination.exe

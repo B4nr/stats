@@ -1,0 +1,15 @@
+D:\VS\C#\School CSharp Project\bin\Debug\net6.0\School CSharp Project.exe
+D:\VS\C#\School CSharp Project\bin\Debug\net6.0\School CSharp Project.deps.json
+D:\VS\C#\School CSharp Project\bin\Debug\net6.0\School CSharp Project.runtimeconfig.json
+D:\VS\C#\School CSharp Project\bin\Debug\net6.0\School CSharp Project.dll
+D:\VS\C#\School CSharp Project\bin\Debug\net6.0\School CSharp Project.pdb
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.csproj.AssemblyReference.cache
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.AssemblyInfoInputs.cache
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.AssemblyInfo.cs
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.csproj.CoreCompileInputs.cache
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.dll
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\refint\School CSharp Project.dll
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.pdb
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\School CSharp Project.genruntimeconfig.cache
+D:\VS\C#\School CSharp Project\obj\Debug\net6.0\ref\School CSharp Project.dll
